@@ -25,5 +25,5 @@ In the demo, you'll be able to see how the form interacts with JavaScript event 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/js-event-listener-exercise.git
+   git clone git@github.com:hasnahadd/SimpleAssignments-EventListener.git
 ## Feel free to contribute or provide feedback!🎉🎊
