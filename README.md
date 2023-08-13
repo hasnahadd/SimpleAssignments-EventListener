@@ -11,7 +11,7 @@ This repository contains a simple JavaScript exercise that demonstrates the impl
 - Change the text color of a paragraph when the mouse leaves another box.
 - whatever you type input me will show up instead of 👀's default
 - whatever you type input me will show up in an alert message when you click the submit button
-## Demo
+# Demo
 
 To experience the form interaction, you can visit our live demo:
 
